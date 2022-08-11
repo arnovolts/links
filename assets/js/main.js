@@ -1,0 +1,15 @@
+VANTA.FOG({
+    el: "#fog-background",
+    mouseControls: false,
+    touchControls: false,
+    gyroControls: false,
+    minHeight: 200.0,
+    minWidth: 200.0,
+    highlightColor: 0x646161,
+    midtoneColor: 0x696969,
+    lowlightColor: 0xffffff,
+    baseColor: 0x0,
+    blurFactor: 0.63,
+    speed: 2.2,
+    zoom: 0.9,
+});
